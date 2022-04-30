@@ -1,2 +1,3 @@
 ﻿  Server.cpp
-  Server.vcxproj -> C:\Users\Владимир\source\repos\Server\Debug\Server.exe
+  LINK : не найден или не выполнена сборка C:\ser\ClientServer\Server\Debug\Server.exe при последней инкрементной компоновке; выполняется полная компоновка
+  Server.vcxproj -> C:\ser\ClientServer\Server\Debug\Server.exe
